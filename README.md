@@ -90,7 +90,7 @@ The following styles are available (`flat` is the default).
 | `plastic` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=plastic) |
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flyour-github-usernameat-square)
 ```
 
 ### Label
